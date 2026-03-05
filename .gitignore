@@ -160,3 +160,20 @@ cython_debug/
 #.idea/
 
 /.vscode
+
+# Archivos temporales
+.Rhistory
+.~lock.*
+.logs/
+
+# Resultados pesados opcionales
+*.zip
+
+# scripts python
+*.py
+
+# dataset de ejemplo
+climate_change.csv
+
+# notebook de pruebas
+climate_change.ipynb
