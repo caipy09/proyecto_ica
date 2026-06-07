@@ -1,0 +1,4 @@
+Escenario,MC_Critico,MC_Alto,MC_Moderado,Copula_Critico,Copula_Alto,Copula_Moderado,Copula_Bajo
+Favorable,0.0,99.51,0.49,0.04,53.54,35.27,11.15
+Base,2.82,97.18,0.0,24.62,53.63,17.1,4.64
+Adverso,90.57,9.43,0.0,46.45,44.44,8.6,0.51
