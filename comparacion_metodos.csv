@@ -1,0 +1,6 @@
+Variable,Sensibilidad_AHP,RF_%,SHAP_%
+OD,3.6,31.99,27.99
+Turbidez,1.18,21.66,24.56
+STS,0.69,12.47,12.25
+CE,0.42,9.86,10.81
+STD,0.37,7.88,8.18
